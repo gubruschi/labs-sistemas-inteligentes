@@ -1,1 +1,1 @@
-# labs-sistemas-inteligentes
+# Laboratorios feitos na aula de Sistemas inteligentes da UFABC
